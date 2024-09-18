@@ -6,7 +6,8 @@ Read this in [[EN](README.md)|<u>ZH</u>]
     试试demo：<a target="_blank" href="https://colab.research.google.com/github/zwzheng45/Qyin/blob/main/%E9%80%9A%E5%BE%8B%E5%8D%83%E9%9F%B3.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
-</p>  
+</p>   
+
 从 [🤗Hugging Face](https://huggingface.co/ZZW45/Qyin) 下载预训练模型
 
 ## 关于
