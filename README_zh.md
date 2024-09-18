@@ -3,7 +3,7 @@
 Read this in [[EN](README.md)|<u>ZH</u>]   
 
 <p>
-    试试demo：<a target="_blank" href="https://colab.research.google.com/github/zwzheng45/so-vits-svc/blob/32k/%E2%80%9Csovits3_0%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb">
+    试试demo：<a target="_blank" href="https://colab.research.google.com/github/zwzheng45/Qyin/blob/main/%E9%80%9A%E5%BE%8B%E5%8D%83%E9%9F%B3.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 </p>  
